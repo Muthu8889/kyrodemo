@@ -1,0 +1,23 @@
+.title {
+  text-align: start;
+  font-size: 25px;
+  font-weight: bold;
+}
+.welcome {
+  padding-bottom: 25px;
+}
+.normal {
+  text-align: start;
+  font-size: 15px;
+}
+.profile {
+  text-align: right;
+  font-size: 25px;
+}
+.nameText {
+  font-size: 25px;
+  font-weight: bold;
+}
+.emailText {
+  font-size: 15px;
+}
